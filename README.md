@@ -1,0 +1,3 @@
+# fristtest
+
+Zmiana 1
